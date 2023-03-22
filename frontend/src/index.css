@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-img {
+    background-image: url("https://themes.rslahmed.dev/rafcart/assets/images/banner-2.jpg");
+}

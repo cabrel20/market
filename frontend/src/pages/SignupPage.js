@@ -1,10 +1,11 @@
 import React from 'react'
+import Register from '../components/Register'
 
 const SignupPage = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+     <Register/> 
+    </>
   )
 }
 

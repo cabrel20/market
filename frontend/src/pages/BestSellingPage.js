@@ -1,10 +1,11 @@
 import React from 'react'
+import NavBar from '../components/NavBar'
 
 const BestSellingPage = () => {
   return (
-    <div>
-      
-    </div>
+    <React.Fragment>
+      <NavBar/>
+    </React.Fragment>
   )
 }
 

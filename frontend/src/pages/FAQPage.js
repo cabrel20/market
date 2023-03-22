@@ -1,10 +1,11 @@
 import React from 'react'
+import NavBar from '../components/NavBar'
 
 const FAQPage = () => {
   return (
-    <div>
-      
-    </div>
+    <React.Fragment>
+      <NavBar/>
+    </React.Fragment>
   )
 }
 
